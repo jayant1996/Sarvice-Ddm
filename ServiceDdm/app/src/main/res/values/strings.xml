@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Service Ddm</string>
+    <string name="open">Open navigation</string>
+    <string name="close">Close navigation</string>
+</resources>
